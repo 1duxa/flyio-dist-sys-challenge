@@ -62,6 +62,7 @@ flyio-dist-sys-challenge/
 - [Fly.io Distributed Systems Challenges](https://fly.io/dist-sys/)
 - [Maelstrom Documentation](https://github.com/jepsen-io/maelstrom)
 - [Rust Programming Language](https://www.rust-lang.org/)
+- [Jon Gjengset](https://www.youtube.com/@jonhoo)
 
 ---
 <!-- 
